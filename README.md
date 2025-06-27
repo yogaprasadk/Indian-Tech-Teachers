@@ -43,7 +43,7 @@ The goal of this repository is to:
 | Prashant Yadav                   | Coming Soon....                                              | [Learners Bucket](https://learnersbucket.com/)        | Coming Soon....      |
 | Thapa Technical (Vinod B. Thapa) | [LinkedIn](https://www.linkedin.com/in/vinodthapa/)          | [thapatechnical.com](https://www.thapatechnical.com/) | HTML, CSS, JS, React |
 | Prateek Narang                   | [LinkedIn](https://www.linkedin.com/in/prateek-narang-0108/) | [codingminutes.com](https://www.codingminutes.com)    | C++, JS, Python      |
-| Hareesh Rajendran (Hareesh R)| [LinkedIn](https://www.linkedin.com/in/hareesh-r/)          | [Hareesh Rajendran](https://www.hareesh.web.app) |  HTML, CSS, JS, React, Bootstrap, Firebase, SCSS, Redux |
+| Hareesh Rajendran (Hareesh R)| [LinkedIn](https://www.linkedin.com/in/hareesh-r/)          | [Hareesh Website ](https://www.hareesh.web.app) |  HTML, CSS, JS, React, Bootstrap, Firebase, SCSS, Redux |
 
 ### `Backend `
 
@@ -51,7 +51,7 @@ The goal of this repository is to:
 | ------------------------------ | ------------------------------------------------------------- | --------------------------------------------------- | ------------------------ |
 | CodeWithHarry (Haris Ali Khan) | [LinkedIn](https://www.linkedin.com/in/harisalikhan/)         | [codewithharry.com](https://www.codewithharry.com/) | Python, Django, Node.js  |
 | Love Babbar                    | [LinkedIn](https://www.linkedin.com/in/love-babbar-38ab2887/) | Coming Soon                                         | C++, Java, System Design |
-| Hareesh Rajendran (Hareesh R)| [LinkedIn](https://www.linkedin.com/in/hareesh-r/)          | [Hareesh Rajendran](https://www.hareesh.web.app) | Java,Python,Node JS|
+| Hareesh Rajendran (Hareesh R)| [LinkedIn](https://www.linkedin.com/in/hareesh-r/)          | [Hareesh Website](https://www.hareesh.web.app) | Java,Python,Node JS|
 
 
 ### `Data Science `
@@ -70,6 +70,9 @@ The goal of this repository is to:
 | Nikhil Lohia      |                                                                    | [studyalgorithms.com](https://studyalgorithms.com)            | C++            |
 | Mazhar Imam Khan  | [LinkedIn](https://www.linkedin.com/in/mazhar-imam-khan-95a34ab3/) | [codestorywithMIK](https://www.youtube.com/@codestorywithMIK) | C++            |
 | Aman Dhattarwal   | [LinkedIn](https://www.linkedin.com/in/amandhattarwal/)            | [apnacollege.in](https://www.apnacollege.in)                  | DSA, C++, Java |
+Hareesh Rajendran (Hareesh R)| [LinkedIn](https://www.linkedin.com/in/hareesh-r/)          | [Hareesh Website](https://www.hareesh.web.app) | 
+| [VANAKKAM DSA] (https://vanakkamdsa.com/register)
+| DSA, Java |
 
 ### `Open Source & Projects Specific `
 
