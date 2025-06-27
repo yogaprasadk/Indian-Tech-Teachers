@@ -1,4 +1,4 @@
-98# 🌟 Indian-Tech-Teachers 🌟
+998# 🌟 Indian-Tech-Teachers 🌟
 
 ### 👌 Top Indian YouTubers and Teachers in Frontend/UI, Backend, Data Science, DSA, ML/AI, and Open Source
 
@@ -51,6 +51,8 @@ The goal of this repository is to:
 | ------------------------------ | ------------------------------------------------------------- | --------------------------------------------------- | ------------------------ |
 | CodeWithHarry (Haris Ali Khan) | [LinkedIn](https://www.linkedin.com/in/harisalikhan/)         | [codewithharry.com](https://www.codewithharry.com/) | Python, Django, Node.js  |
 | Love Babbar                    | [LinkedIn](https://www.linkedin.com/in/love-babbar-38ab2887/) | Coming Soon                                         | C++, Java, System Design |
+| Hareesh Rajendran (Hareesh R)| [LinkedIn](https://www.linkedin.com/in/hareesh-r/)          | [Hareesh Rajendran](https://www.hareesh.web.app) | Java,Python,Node JS|
+
 
 ### `Data Science `
 
