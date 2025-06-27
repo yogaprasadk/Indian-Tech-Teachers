@@ -70,7 +70,7 @@ The goal of this repository is to:
 | Nikhil Lohia      |                                                                    | [studyalgorithms.com](https://studyalgorithms.com)            | C++            |
 | Mazhar Imam Khan  | [LinkedIn](https://www.linkedin.com/in/mazhar-imam-khan-95a34ab3/) | [codestorywithMIK](https://www.youtube.com/@codestorywithMIK) | C++            |
 | Aman Dhattarwal   | [LinkedIn](https://www.linkedin.com/in/amandhattarwal/)            | [apnacollege.in](https://www.apnacollege.in)                  | DSA, C++, Java |
-Hareesh Rajendran (Hareesh R)| [LinkedIn](https://www.linkedin.com/in/hareesh-r/)          | [Vanakkam DSA ](https://vanakkamdsa.com/) | DSA Java |
+Hareesh Rajendran (Hareesh R)| [LinkedIn](https://www.linkedin.com/in/hareesh-r/)          | [Vanakkam DSA ](https://vanakkamdsa.com/) | DSA, Java |
 
 ### `Open Source & Projects Specific `
 
