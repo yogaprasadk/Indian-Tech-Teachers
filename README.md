@@ -43,6 +43,9 @@ The goal of this repository is to:
 | Prashant Yadav                   | Coming Soon....                                              | [Learners Bucket](https://learnersbucket.com/)        | Coming Soon....      |
 | Thapa Technical (Vinod B. Thapa) | [LinkedIn](https://www.linkedin.com/in/vinodthapa/)          | [thapatechnical.com](https://www.thapatechnical.com/) | HTML, CSS, JS, React |
 | Prateek Narang                   | [LinkedIn](https://www.linkedin.com/in/prateek-narang-0108/) | [codingminutes.com](https://www.codingminutes.com)    | C++, JS, Python      |
+| Hareesh Rajendran 
+[LinkedIn] (https://www.linkedin.com/in/hareesh-r)
+|[Hareesh Website](https://hareesh.web.app/) | JS |
 
 ### `Backend `
 
